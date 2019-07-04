@@ -1,0 +1,57 @@
+body {
+  background-color:  #7bed9f;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+color: #10ac84;
+margin-top: auto;
+font-size: 50px;
+font-family: 'Amatic SC', cursive;
+}
+
+h2{
+  color: #9C27B0;
+  font-family: 'Amatic SC', cursive;
+}
+
+h3 {
+  color: #4834d4;
+  font-family: 'Amatic SC', cursive;
+}
+
+div {
+  background-color: #2ed573;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Poiret One', cursive;
+}
+
+.top-container {
+  background-color:  #7bed9f;
+  padding-top: 100px;
+  height: 520px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 10px;
+
+}
+
+.botcloud {
+  position: absolute ;
+  left: 150px;
+  top: 350px;
+}
+
+
+.middle-container{
+}
+
+.bottom-container{
+}
